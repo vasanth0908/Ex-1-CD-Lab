@@ -1,6 +1,4 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## Name:vasanth
-## Register No : 212222110052
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
